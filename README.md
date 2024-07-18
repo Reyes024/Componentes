@@ -1,4 +1,4 @@
-##Componente validador de datos y generador de historiales de busqueda.
+###Componente validador de datos y generador de historiales de busqueda.
 
 ##Descripción.
 Este componenete de Java permite generar archivos .txt que permiten:

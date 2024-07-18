@@ -1,12 +1,12 @@
-###Componente validador de datos y generador de historiales de busqueda.
+# Componente validador de datos y generador de historiales de busqueda.
 
-##Descripción.
+## Descripción.
 Este componenete de Java permite generar archivos .txt que permiten:
 	- Generar una lista de elementos existentes y que es totalmente editable.
 	- Generar una lista de elementos buscados a traves del buscador.
 Este proyecto implementa un componente de búsqueda personalizado en Java Swing llamado `Buscador`. El `Buscador` incluye un campo de texto para ingresar el término de búsqueda, un botón con ícono para iniciar la búsqueda y una etiqueta para mostrar los resultados de la búsqueda.
 
-#Caracteristicas.
+## Caracteristicas.
 1. **Campo de Texto (`JTextField`) con Texto Predeterminado:**
    - El campo de texto (`txtBuscar`) tiene un texto predeterminado "Buscar..." que se muestra en color gris.
    - Al hacer clic en el campo de texto, el texto predeterminado desaparece y el color del texto cambia a negro.
@@ -35,7 +35,7 @@ Este proyecto implementa un componente de búsqueda personalizado en Java Swing 
 8. **Manejo de Excepciones:**
    - Se implementa manejo de excepciones para asegurar que los errores durante la lectura y escritura de archivos se capturen y se notifiquen adecuadamente al usuario.
 
-##Requisitos.
+## Requisitos.
 Para compilar y ejecutar este proyecto, asegúrate de tener lo siguiente:
 
 ## Ejemplos de Uso

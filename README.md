@@ -38,6 +38,21 @@ Este proyecto implementa un componente de búsqueda personalizado en Java Swing 
 ##Requisitos.
 Para compilar y ejecutar este proyecto, asegúrate de tener lo siguiente:
 
+## Ejemplos de Uso
+
+El componente `Buscador` puede ser utilizado en diversas situaciones, incluyendo:
+
+- Implementación de búsqueda de texto dentro de archivos de configuración o registros.
+- Desarrollo de herramientas de búsqueda y filtrado en aplicaciones de gestión de datos.
+- Integración en sistemas de inventario para buscar productos específicos.
+- Aplicaciones de gestión documental para buscar archivos por nombre o contenido.
+- Herramientas de análisis de texto para encontrar patrones específicos en documentos.
+- Funcionalidad de búsqueda en catálogos de productos en línea.
+- Paneles de administración para buscar usuarios por nombre o identificador.
+- Integración en aplicaciones de aprendizaje automático para buscar datos en conjuntos de entrenamiento.
+- Sistemas de gestión de contenido para buscar entradas basadas en etiquetas o categorías.
+
+
 ### Software
 
 1. **Java Development Kit (JDK) 8 o superior:**

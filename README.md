@@ -35,8 +35,6 @@ Este proyecto implementa un componente de búsqueda personalizado en Java Swing 
 8. **Manejo de Excepciones:**
    - Se implementa manejo de excepciones para asegurar que los errores durante la lectura y escritura de archivos se capturen y se notifiquen adecuadamente al usuario.
 
-## Requisitos.
-Para compilar y ejecutar este proyecto, asegúrate de tener lo siguiente:
 
 ## Ejemplos de Uso
 
@@ -52,7 +50,8 @@ El componente `Buscador` puede ser utilizado en diversas situaciones, incluyendo
 - Integración en aplicaciones de aprendizaje automático para buscar datos en conjuntos de entrenamiento.
 - Sistemas de gestión de contenido para buscar entradas basadas en etiquetas o categorías.
 
-
+## Requisitos.
+Para compilar y ejecutar este proyecto, asegúrate de tener lo siguiente:
 ### Software
 
 1. **Java Development Kit (JDK) 8 o superior:**
